@@ -14,9 +14,13 @@
 
   - Dónde comer: [Leib & Seele](leibundseele-frankfurt.de)
   - Lugares que visitar:
+
     - [Casa de Goethe](https://www.goethehaus-frankfurt.de/)
     - [Catedral de San Bartolomé](http://www.dom-frankfurt.de/)
     - (Jardín de Palmeras de Frankfurt)[www.palmengarten.de]
+
+    - Cómo llegar: en coche de alquiler
+    - Dónde dormir: Hotel Nassauer Hof, Kaiser-Friedrich-Platz 3-4, 65183 Wiesbaden (http://www.nassauer-hof.de/de/default.html)
 
 - Tercera parada Berlin
 - Cuarta parada Varsovia
