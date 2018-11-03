@@ -11,5 +11,12 @@
     - Catedral de Notre Dame
     - Arco del Triunfo
 - Segunda parada Frankfurt
+
+  - Dónde comer: [Leib & Seele](leibundseele-frankfurt.de)
+  - Lugares que visitar:
+    - [Casa de Goethe](https://www.goethehaus-frankfurt.de/)
+    - [Catedral de San Bartolomé](http://www.dom-frankfurt.de/)
+    - (Jardín de Palmeras de Frankfurt)[www.palmengarten.de]
+
 - Tercera parada Berlin
 - Cuarta parada Varsovia
