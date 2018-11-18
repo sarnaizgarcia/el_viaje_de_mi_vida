@@ -22,5 +22,7 @@
     - Cómo llegar: en coche de alquiler
     - Dónde dormir: Hotel Nassauer Hof, Kaiser-Friedrich-Platz 3-4, 65183 Wiesbaden (http://www.nassauer-hof.de/de/default.html)
 
-- Tercera parada Berlin
-- Cuarta parada Varsovia
+- Tercera parada Bruselas
+- Cuarta parada Colonia
+- Quinta parada Berlin
+- Sexta parada Varsovia
