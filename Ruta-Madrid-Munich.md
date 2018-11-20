@@ -1,5 +1,5 @@
 #### Punto de salida Madrid
 
-- Primera parada: Barcelona
-- Segunda parada: Ginebra
+- Primera parada: Zaragoza
+- Segunda parada: Algún sitio en Francia
 - Tercera parada: Múnich
