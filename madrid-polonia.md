@@ -1,7 +1,7 @@
 ### Ruta Madrid - Polonia
 
 - Salida Madrid
-- Primera parada Paris
+- Primera parada Paris Aeropuerto principal
   - Cómo llegar: en avión
   - Dónde dormir: [La Maison Favart](https://www.lamaisonfavart.fr/), 5, Rue de Marivaux | 2nd Arr, 75002 París
   - Dónde comer: [Signature Montmartre](https://signature-montmartre.fr/), 12 rue des Trois Freres, 75018 París
@@ -10,8 +10,7 @@
     - Museo del Louvre
     - Catedral de Notre Dame
     - Arco del Triunfo
-- Segunda parada Frankfurt
-
+- Segunda parada: Frankfurt
   - Dónde comer: [Leib & Seele](leibundseele-frankfurt.de)
   - Lugares que visitar:
 
